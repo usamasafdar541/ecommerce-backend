@@ -30,7 +30,7 @@ Multer for handling file uploads.
 Getting Started
 Clone the repository:
 
-git clone https://github.com/your-username/eCommerceStore.git
+git clone https://github.com/usamasafdar541/eCommerceStore.git
 Install dependencies:
 
 npm install
